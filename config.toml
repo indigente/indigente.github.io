@@ -1,0 +1,26 @@
+baseURL = 'https://indigente.github.io'
+languageCode = 'pt-br'
+title = 'Indigente'
+theme = "ananke"
+paginate = 50
+
+summaryLength = 20
+
+[params]
+    recent_posts_number = 3
+    mainSections = ["eventos", "projetos"]
+
+[[menu.main]]
+    name = "sobre"
+    weight = -120
+    identifier = "sobre"
+    url = "/sobre/"
+[[menu.main]]
+    name = "eventos"
+    weight = -110
+    identifier = "eventos"
+    url = "/eventos/"
+[[menu.main]]
+    name = "projetos"
+    weight = -100
+    url = "/projetos/"

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projetos on Indigente</title>
+    <link>https://indigente.github.io/projetos/</link>
+    <description>Recent content in Projetos on Indigente</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://indigente.github.io/projetos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dominoops</title>
+      <link>https://indigente.github.io/projetos/dominoops/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://indigente.github.io/projetos/dominoops/</guid>
+      <description>Site: http://dominoops.herokuapp.com/</description>
+    </item>
+    
+    <item>
+      <title>MineUFBA</title>
+      <link>https://indigente.github.io/projetos/mineufba/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://indigente.github.io/projetos/mineufba/</guid>
+      <description>Site: https://mine.ufba.br/</description>
+    </item>
+    
+    <item>
+      <title>Maquete virtual dos campi UFBA</title>
+      <link>https://indigente.github.io/projetos/maquete-ufba/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://indigente.github.io/projetos/maquete-ufba/</guid>
+      <description>Atividade: abril 2016 - atual Agência financiadora: UFBA Tecnologias: Blender, Unity 3D Demo jogável: Clique aqui para jogar o protótipo da Maquete UFBA  O objetivo deste projeto é a construção de uma maquete virtual dos campi da UFBA, que possibilite aos usuários caminhar ao longo das vias e observar os principais prédios, monumentos, praças e ruas da universidade.</description>
+    </item>
+    
+    <item>
+      <title>Teste de arrumação do armário</title>
+      <link>https://indigente.github.io/projetos/taa/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://indigente.github.io/projetos/taa/</guid>
+      <description>Atividade: novembro 2015 - atual Agência financiadora: Recursos próprios Tecnologias: CreateJS, PHP, MySQL Código-fonte: https://github.com/indigente/labs Slides do Congresso UFBA: https://goo.</description>
+    </item>
+    
+    <item>
+      <title>Kirimurê</title>
+      <link>https://indigente.github.io/projetos/kirimure/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://indigente.github.io/projetos/kirimure/</guid>
+      <description>Atividade: abril 2009 Agência financiadora:  Recursos próprios FAPESB    Antes de tudo, havia Kirimurê. Era assim que os Tupinambás chamavam o que hoje conhecemos como a Baía de Todos os Santos.</description>
+    </item>
+    
+    <item>
+      <title>We Are The Champignons (WATC)</title>
+      <link>https://indigente.github.io/projetos/watc/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://indigente.github.io/projetos/watc/</guid>
+      <description>Atividade: agosto 2006 - novembro 2006 Agência financiadora: Recursos próprios  Introdução We are the Champignons é um jogo 3D multiplayer em primeira pessoa no qual o jogador assume o papel de membro de um dos dois exércitos disponíveis, os Champignons e as Azeitonas, que batalham pelo domínio da pizza.</description>
+    </item>
+    
+    <item>
+      <title>InGE - Indigente Game Engine</title>
+      <link>https://indigente.github.io/projetos/inge/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://indigente.github.io/projetos/inge/</guid>
+      <description>Atividade: abril 2005 - abril 2007 Agência financiadora:  Recursos próprios FAPESB (?)    O InGE, Indigente Game Engine, é um motor livre e multi-plataforma para o desenvolvimento de jogos 3D.</description>
+    </item>
+    
+    <item>
+      <title>AirroX</title>
+      <link>https://indigente.github.io/projetos/airrox/</link>
+      <pubDate>Thu, 01 Apr 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://indigente.github.io/projetos/airrox/</guid>
+      <description>Atividade: abril 2004 - abril 2005 Agência financiadora: Recursos próprios  Um jogo de Air Hockey em C++ usando OpenGL e SDL</description>
+    </item>
+    
+  </channel>
+</rss>

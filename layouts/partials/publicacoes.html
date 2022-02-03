@@ -1,0 +1,8 @@
+!!oioioi
+<p>
+dados: {{ .Site.Data.publicacoes }}
+</p>
+
+{{ range $.Site.Data.publicacoes }}
+- **{{ .title }}**, {{ .authors }}. {{ .event }} {{ .year }}
+{{ end }}

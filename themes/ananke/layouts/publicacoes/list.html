@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+      {{- .Content -}}
+    </section>
+    <section class="flex-ns flex-wrap justify-around mt5">
+      {{ range .Site.Data.publicacoes }}
+        <div class="relative w-100 w-30-l mb4 bg-white">
+
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+            <div class="bg-white mb3 gray overflow-hidden">
+              <span class="f6 db pr3 pl3 pt3"><b>{{ .event }} {{ .year }}</b></span>
+              <h1 class="f3 near-black pr3 pl3">
+                  <a class="link black dim" href="{{ .link | default '#' }}">{{ .title }}</a>
+              </h1>
+
+              <div class="nested-links f5 lh-copy nested-copy-line-height pr3 pl3">
+                {{ .authors }}
+              </div>
+            </div>
+          </div>
+          
+        </div>
+      {{ end }}
+    </section>
+    {{- template "_internal/pagination.html" . -}}
+  </article>
+{{ end }}

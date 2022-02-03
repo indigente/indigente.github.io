@@ -24,3 +24,11 @@ summaryLength = 20
     name = "projetos"
     weight = -100
     url = "/projetos/"
+[[menu.main]]
+    name = "publicacoes"
+    weight = -90
+    url = "/publicacoes/"
+[[menu.main]]
+    name = "pessoas"
+    weight = -80
+    url = "/pessoas/"

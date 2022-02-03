@@ -3,6 +3,7 @@ layout: page
 title: "Kirimurê"
 date: 2009-04-01
 featured_image: /images/kirimure.jpg
+summary: Tomando o ponto de vista de um índio tupinambá que tenta resistir aos primeiros avanços do capitalismo mundial, este jogo visa envolver emocionalmente o personagem-jogador dentro dos acontecimentos que marcaram o século XVI.
 ---
 
 - Atividade: abril 2009

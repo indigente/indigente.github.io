@@ -2,6 +2,7 @@
 title: "InGE - Indigente Game Engine"
 date: 2005-04-01
 featured_image: /images/logo.png
+summary: O InGE, Indigente Game Engine, é um motor livre e multi-plataforma para o desenvolvimento de jogos 3D em C++.
 ---
 
 - Atividade: abril 2005 - abril 2007
@@ -9,7 +10,7 @@ featured_image: /images/logo.png
     - Recursos próprios
     - FAPESB (?)
 
-O InGE, Indigente Game Engine, é um motor livre e multi-plataforma para o desenvolvimento de jogos 3D.
+O InGE, Indigente Game Engine, é um motor livre e multi-plataforma para o desenvolvimento de jogos 3D em C++.
 
 ## Notícias
 

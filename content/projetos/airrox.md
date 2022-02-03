@@ -2,6 +2,7 @@
 title: 'AirroX'
 date: 2004-04-01
 featured_image: /images/airrox.jpg
+summary: Um jogo de Air Hockey em C++ usando OpenGL e SDL. 2º lugar no I Festival Brasileiro de Jogos Independentes.
 ---
 
 - Atividade: abril 2004 - abril 2005

@@ -2,13 +2,13 @@
 title: "Maquete virtual dos campi UFBA"
 date: 2016-04-01
 featured_image: /images/maquete2016-paf1.jpg
+summary: O objetivo deste projeto é a construção de uma maquete virtual dos campi da UFBA, que possibilite aos usuários caminhar ao longo das vias e observar os principais prédios, monumentos, praças e ruas da universidade.
 ---
 
 - Atividade: abril 2016 - atual
 - Agência financiadora: UFBA
 - Tecnologias: Blender, Unity 3D
 - Demo jogável: **[Clique aqui para jogar o protótipo da Maquete UFBA](http://maquete.ufba.br/)**
-
 
 O objetivo deste projeto é a construção de uma maquete virtual dos campi da UFBA, que possibilite aos usuários caminhar ao longo das vias e observar os principais prédios, monumentos, praças e ruas da universidade.
 

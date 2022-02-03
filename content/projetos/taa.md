@@ -1,7 +1,8 @@
 ---
-title: "Teste de arrumação do armário"
+title: "Teste de Arrumação do Armário"
 date: 2015-11-01
 featured_image: /images/taa.png
+summary: O *Teste de Arrumação do Armário* (TAA) é um teste neuropsicológico desenvolvido no [Neuroclic](https://www.facebook.com/neuroclic/) para avaliar a capacidade da memória operacional dos indivíduos para a alocação objeto-localização.
 ---
 
 - Atividade: novembro 2015 - atual

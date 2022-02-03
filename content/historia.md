@@ -1,11 +1,16 @@
 ---
 title: "História do Indigente"
-featured_image: /images/logo.png
+featured_image: /images/wjogos2003.jpg
 ---
 
 # Apresentação
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2XMmvbI6ie8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Veja também:
+
+- <https://www.youtube.com/watch?v=2XMmvbI6ie8>
+- <https://speakerdeck.com/rodrigorgs/indigente-desenvolvimento-de-jogos-na-ufba>
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/2XMmvbI6ie8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 Indigente (Interactive Digital Entertainment) é um grupo de pesquisa e desenvolvimento de jogos sediado na UFBA que tem como principais objetivos (1) realizar pesquisa básica para a criação de algoritmos, técnicas e ferramentas que apoiem o desenvolvimento de jogos 3D, (2) desenvolver jogos eletrônicos e (3) fomentar o interesse da comunidade acadêmica baiana para a área de jogos eletrônicos.
 

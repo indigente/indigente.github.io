@@ -2,6 +2,7 @@
 title: "We Are The Champignons (WATC)"
 date: 2006-08-01
 featured_image: /images/watc.jpg
+summary: Jogo 3D multiplayer em 1ª pessoa no qual o jogador assume o papel de membro de um dos dois exércitos disponíveis, os Champignons e as Azeitonas, que batalham pelo domínio da pizza.
 ---
 
 - Atividade: agosto 2006 - novembro 2006

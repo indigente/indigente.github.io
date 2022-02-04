@@ -25,7 +25,7 @@ summaryLength = 20
     weight = -100
     url = "/projetos/"
 [[menu.main]]
-    name = "publicacoes"
+    name = "publicações"
     weight = -90
     url = "/publicacoes/"
 [[menu.main]]

@@ -2,7 +2,10 @@
 title: 'Dominoops'
 date: 2020-01-01
 featured_image: /images/dominoops.jpg
+summary: Um jogo de cartas baseado no dominó para ensinar conceitos usados na Programação Orientada a Objetos, como implementada por linguagens estaticamente tipadas como Java.
 ---
+
+**Jogue agora**: <http://dominoops.herokuapp.com/>
 
 Um jogo de cartas baseado no dominó para ensinar conceitos usados na Programação Orientada a Objetos, como implementada por linguagens estaticamente tipadas como Java.
 
@@ -11,9 +14,9 @@ Cada carta representa um objeto de uma classe específica, que pode ser associad
 
 Para jogar Dominoops, você pode
 
+- ... acessar o [jogo online](http://dominoops.herokuapp.com/), implementado com a biblioteca [Boardgame.io](https://boardgame.io/)
 - ... imprimir o [deque de cartas][deck]
 - ... importar o [deque de cartas][deck] no [Tabletop Simulator](https://www.tabletopsimulator.com/)
-- ... acessar o jogo online, implementado com a biblioteca [Boardgame.io](https://boardgame.io/)
 
 Links importantes:
 

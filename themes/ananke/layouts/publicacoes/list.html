@@ -11,7 +11,11 @@
             <div class="bg-white mb3 gray overflow-hidden">
               <span class="f6 db pr3 pl3 pt3"><b>{{ .event }} {{ .year }}</b></span>
               <h1 class="f3 near-black pr3 pl3">
-                  <a class="link black dim" href="{{ .link | default '#' }}">{{ .title }}</a>
+                  {{ if .link }}
+                    <a class="link black dim" href="{{ .link }}">{{ .title }}</a>
+                  {{ else }}
+                    <span class="link black dim">{{ .title }}</a>
+                  {{ end }}
               </h1>
 
               <div class="nested-links f5 lh-copy nested-copy-line-height pr3 pl3">

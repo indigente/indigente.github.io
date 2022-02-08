@@ -1,6 +1,6 @@
 ---
 title: 'Dominoops'
-date: 2020-01-01
+date: 2021-05-16
 featured_image: /images/dominoops.jpg
 summary: Um jogo de cartas baseado no dominó para ensinar conceitos usados na Programação Orientada a Objetos, como implementada por linguagens estaticamente tipadas como Java.
 ---

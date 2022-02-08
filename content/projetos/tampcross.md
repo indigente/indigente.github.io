@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "TampCross"
 date: 2007-04-13
 featured_image: /images/tampcross.jpg

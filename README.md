@@ -6,7 +6,4 @@ hugo server
 
 ## Deploy site
 
-```bash
-hugo
-```
-
+Just push to the `master` branch. The site is automatically deployed by GitHub Actions.

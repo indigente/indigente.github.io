@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projetos on Indigente</title>
+    <link>https://indigente.github.io/projetos/</link>
+    <description>Recent content in Projetos on Indigente</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 02 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://indigente.github.io/projetos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interceptadores</title>
+      <link>https://indigente.github.io/projetos/interceptadores/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://indigente.github.io/projetos/interceptadores/</guid>
+      <description>&lt;p&gt;Interceptadores é um jogo de realidade virtual sobre a independência do Brasil na Bahia, financiado pela Fapesb através do edital FAPESB/SECTI 009/2023 (Metaverso no 2 de julho). Ele está sendo desenvolvido em parceria com a empresa &lt;a href=&#34;http://zeroth.team/&#34;&gt;Team Zeroth&lt;/a&gt; para Meta Quest e desktop.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blocomp</title>
+      <link>https://indigente.github.io/projetos/blocomp/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://indigente.github.io/projetos/blocomp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Experimente agora&lt;/strong&gt;: &lt;a href=&#34;https://rodrigorgs.github.io/blocomp/&#34;&gt;https://rodrigorgs.github.io/blocomp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Blocomp é um ambiente para ensino de programação em blocos com correção automática que roda navegador. Ele pode ser usado em cursos de pensamento computacional ou introdução à programação, ou por qualquer um que queira aprender a programar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dominoops</title>
+      <link>https://indigente.github.io/projetos/dominoops/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://indigente.github.io/projetos/dominoops/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Jogue agora&lt;/strong&gt;: &lt;a href=&#34;https://dominoops.app.ic.ufba.br/&#34;&gt;https://dominoops.app.ic.ufba.br/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Um jogo de cartas baseado no dominó para ensinar conceitos usados na Programação Orientada a Objetos, como implementada por linguagens estaticamente tipadas como Java.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>inge9</title>
+      <link>https://indigente.github.io/projetos/inge9/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://indigente.github.io/projetos/inge9/</guid>
+      <description>Motor de jogos em C++ que roda no navegador.
+Com o inge9 você escreve o código do seu jogo em C++ e roda dentro do navegador, sem precisar instalar nada.</description>
+    </item>
+    <item>
+      <title>ILP Game</title>
+      <link>https://indigente.github.io/projetos/ilpgame/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://indigente.github.io/projetos/ilpgame/</guid>
+      <description>A ILP Game é uma biblioteca de funções C++ que simplificam o desenvolvimento de aplicações multimídia com a biblioteca SDL. Ela foi desenvolvida por Rodrigo Rocha para apoiar a disciplina “Introdução à Lógica de Programação” da UFBA.</description>
+    </item>
+    <item>
+      <title>MineUFBA</title>
+      <link>https://indigente.github.io/projetos/mineufba/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://indigente.github.io/projetos/mineufba/</guid>
+      <description>&lt;p&gt;MineUFBA foi um projeto PIBITI (2018–2019) com o objetivo de criar ferramentas para apoiar a construção de um mapa da UFBA no jogo &lt;a href=&#34;https://www.minetest.net/&#34;&gt;Minetest&lt;/a&gt;, um jogo open source similar ao Minecraft.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Maquete virtual dos campi UFBA</title>
+      <link>https://indigente.github.io/projetos/maquete-ufba/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://indigente.github.io/projetos/maquete-ufba/</guid>
+      <description>O objetivo deste projeto é a construção de uma maquete virtual dos campi da UFBA, que possibilite aos usuários caminhar ao longo das vias e observar os principais prédios, monumentos, praças e ruas da universidade.</description>
+    </item>
+    <item>
+      <title>Teste de Arrumação do Armário</title>
+      <link>https://indigente.github.io/projetos/taa/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://indigente.github.io/projetos/taa/</guid>
+      <description>O &lt;em&gt;Teste de Arrumação do Armário&lt;/em&gt; (TAA) é um teste neuropsicológico desenvolvido no &lt;a href=&#34;https://www.facebook.com/neuroclic/&#34;&gt;Neuroclic&lt;/a&gt; para avaliar a capacidade da memória operacional dos indivíduos para a alocação objeto-localização.</description>
+    </item>
+    <item>
+      <title>Kirimurê</title>
+      <link>https://indigente.github.io/projetos/kirimure/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://indigente.github.io/projetos/kirimure/</guid>
+      <description>Tomando o ponto de vista de um índio tupinambá que tenta resistir aos primeiros avanços do capitalismo mundial, este jogo visa envolver emocionalmente o personagem-jogador dentro dos acontecimentos que marcaram o século XVI.</description>
+    </item>
+    <item>
+      <title>Modelagem de jogos adventure com Machinations</title>
+      <link>https://indigente.github.io/projetos/machinations/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>https://indigente.github.io/projetos/machinations/</guid>
+      <description>Neste trabalho avaliamos a viabilidade de uso da linguagem visual e framework Machinations na modelagem de jogos de adventure, criando padrões para representar elementos desses jogos.</description>
+    </item>
+    <item>
+      <title>TampCross</title>
+      <link>https://indigente.github.io/projetos/tampcross/</link>
+      <pubDate>Fri, 13 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>https://indigente.github.io/projetos/tampcross/</guid>
+      <description>TampCross traz de volta o espírito emocionante das grandes corridas de tampinhas de garrafa travadas durante a infância de muitas crianças.</description>
+    </item>
+    <item>
+      <title>Projeto PAF</title>
+      <link>https://indigente.github.io/projetos/paf/</link>
+      <pubDate>Wed, 14 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>https://indigente.github.io/projetos/paf/</guid>
+      <description>Passeio virtual no Pavilhão de Aulas da Federação (PAF I). Implementado com o motor InGE.</description>
+    </item>
+    <item>
+      <title>We Are The Champignons (WATC)</title>
+      <link>https://indigente.github.io/projetos/watc/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
+      <guid>https://indigente.github.io/projetos/watc/</guid>
+      <description>Jogo 3D multiplayer em 1ª pessoa no qual o jogador assume o papel de membro de um dos dois exércitos disponíveis, os Champignons e as Azeitonas, que batalham pelo domínio da pizza.</description>
+    </item>
+    <item>
+      <title>InGE - Indigente Game Engine</title>
+      <link>https://indigente.github.io/projetos/inge/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>https://indigente.github.io/projetos/inge/</guid>
+      <description>O InGE, Indigente Game Engine, é um motor livre e multi-plataforma para o desenvolvimento de jogos 3D em C++.</description>
+    </item>
+    <item>
+      <title>AirroX</title>
+      <link>https://indigente.github.io/projetos/airrox/</link>
+      <pubDate>Thu, 01 Apr 2004 00:00:00 +0000</pubDate>
+      <guid>https://indigente.github.io/projetos/airrox/</guid>
+      <description>Um jogo de Air Hockey em C++ usando OpenGL e SDL. 2º lugar no I Festival Brasileiro de Jogos Independentes.</description>
+    </item>
+  </channel>
+</rss>

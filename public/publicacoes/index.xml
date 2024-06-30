@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publicações on Indigente</title>
+    <link>https://indigente.github.io/publicacoes/</link>
+    <description>Recent content in Publicações on Indigente</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <atom:link href="https://indigente.github.io/publicacoes/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

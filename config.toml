@@ -8,7 +8,7 @@ summaryLength = 20
 
 [params]
     recent_posts_number = 3
-    mainSections = ["eventos", "projetos"]
+    mainSections = ["projetos", "eventos"]
 
 [[menu.main]]
     name = "sobre"

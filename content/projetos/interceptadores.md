@@ -14,3 +14,12 @@ Interceptadores é um jogo de realidade virtual sobre a independência do Brasil
 
 
 ![Tela do Interceptadores](/images/interceptadores.jpg)
+
+## Download
+
+As versões experimentais do jogo estão disponíveis para download, para Windows, macOS e Meta Quest (Android):
+[lista de downloads](https://gitlab.com/meta-ufba/interceptadores/-/artifacts)
+
+## Código-fonte
+
+O código-fonte do jogo está disponível no [repositório Git do projeto](https://gitlab.com/meta-ufba/interceptadores)

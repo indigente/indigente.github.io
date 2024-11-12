@@ -15,6 +15,8 @@ Interceptadores é um jogo de realidade virtual sobre a independência do Brasil
 
 ![Tela do Interceptadores](/images/interceptadores.jpg)
 
+Vídeo do primeiro protótipo: [YouTube](https://www.youtube.com/watch?v=3Q1Q6J9Q9Zo)
+
 ## Download
 
 As versões experimentais do jogo estão disponíveis para download, para Windows, macOS e Meta Quest (Android):

@@ -6,6 +6,9 @@ paginate = 50
 
 summaryLength = 20
 
+[markup.goldmark.renderer]
+    unsafe= true
+
 [params]
     recent_posts_number = 3
     mainSections = ["projetos", "eventos"]

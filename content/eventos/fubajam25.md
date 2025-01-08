@@ -5,13 +5,11 @@ featured_image: /images/fubajam.png
 date: 2024-12-25
 ---
 
-A [Global Game Jam](http://globalgamejam.org/) (GGJ) é um hackathon de 48 horas na qual entusiastas do desenvolvimento de jogos --- sejam iniciantes ou experts --- se encontram e aprendem enquanto **criam jogos** a partir de um **tema secreto** revelado no início do evento. O evento ocorre simultaneamente em mais de 70 países; desde 2014, a **FUBAjam** é a sede da Global Game Jam na UFBA, em Salvador. Em 2025 o evento ocorrerá de 24 a 26 de janeiro, no Instituto de Computação da UFBA.
+A [Global Game Jam](http://globalgamejam.org/) (GGJ) é um hackathon de 48 horas na qual entusiastas do desenvolvimento de jogos, de iniciantes a experts, aprendem juntos enquanto **criam jogos** a partir de um **tema secreto** revelado no início do evento. O evento ocorre simultaneamente em mais de 70 países; desde 2014, a **FUBAjam** é a sede da Global Game Jam na UFBA, em Salvador. Em 2025 o evento ocorrerá de 24 a 26 de janeiro, no Instituto de Computação da UFBA.
 
 ### Inscrições
 
-Em breve.
-
-<!-- [Clique aqui para se inscrever](https://goo.gl/forms/PvtD1XuqSNFAEA7c2). -->
+[Clique aqui para se inscrever](https://forms.gle/Qm2zQkWs35acCvT7A).
 
 ### Programação
 
@@ -43,7 +41,7 @@ Instituto de Computação (PAF 2), campus de Ondina da UFBA, sala Smart Class IV
 
 - **Capacidade**: 20 pessoas
 - **Horário de funcionamento**: das 8:00 às 22:00
-  - Quem preferir pode passar a madrugada no local do evento, mas não há infraestrutura adequada para dormir; deve-se trazer comida para passar a noite e saco de dormir, colchão inflável, colchas ou o que for necessário para uma noite confortável.
+  - Quem preferir pode passar a madrugada no local do evento, mas não há infraestrutura adequada para dormir; deve-se trazer comida para passar a noite e saco de dormir, colchão inflável, colchas ou o que for necessário para uma noite mais confortável.
 - **Infraestrutura**:
   - Espaço de trabalho com ar condicionado, TV e projetor, quadro branco, mesas, tomadas e cadeiras
     - Todas as tomadas estão no padrão brasileiro de três pinos. **Traga adaptadores** se necessário!
@@ -52,7 +50,7 @@ Instituto de Computação (PAF 2), campus de Ondina da UFBA, sala Smart Class IV
   - Copa com geladeira e micro-ondas
   - Sanitário acessível
   - Vestiários com chuveiro
-  - Rede Wi-Fi aberta
+  - Rede Wi-Fi aberta (UFBA-Visitante)
 
 ## Orientações para os jammers
 
@@ -61,32 +59,10 @@ Instituto de Computação (PAF 2), campus de Ondina da UFBA, sala Smart Class IV
 - **Obrigatório**: documento de identidade com foto
 - Computador e outros equipamentos que você for usar (controlador MIDI, mesa digitalizadora etc.)
 - Extensões elétricas e adaptadores
-- Dinheiro
-- Copo, caneca, squeeze ou garrafa para beber água
 - Lanches (prefira alimentos saudáveis)
-- Roupas leves (mas também roupa para aguentar o ar condicionado)
-
-**Onde almoçar**:
-
-<center><iframe src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d7774.881229805674!2d-38.512951!3d-13.0075895!3m2!1i1024!2i768!4f13.1!2m1!1srestaurants+near+Instituto+de+Biologia+da+UFBA+-+Campus+Ondina%2C+Salvador+-+State+of+Bahia!5e0!3m2!1sen!2sbr!4v1483902428766" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></center>
-
-- Restaurante Universitário, 100m (R$ 2,50 para estudantes da UFBA)
-- Restaurante Kilo de Ondina, 300m. Comida a quilo.
-- Restaurante Vida, 1,0 km. Comida a quilo.
-- Restaurante Maria Bonita, 1,0 km. Comida a quilo.
-- Stalo Restaurante, 1,1 km. Comida a quilo.
-- Restaurante Siriguela, 1,2 km. Comida a quilo.
-- Restaurante chinês. 1,2 km. Comida a quilo.
-- Subway, 1,3 km. Sanduíche.
-- Pizza Hut, 1,3 km. Pizza.
-- Speed Lanches, 1,4 km.
-- Sugestões de delivery:
-  - Suan Loun (Barra): yakisoba. (71) 3332-2222
-
-**Outros estabelecimentos próximos**:
-
-- Padaria: 800 m.
-- Farmácia: 800 m.
+- Copo, caneca, squeeze ou garrafa para beber água
+- Roupas para o calor de Salvador e o frio do ar condicionado
+- Dinheiro
 
 ## Mais sobre o evento
 

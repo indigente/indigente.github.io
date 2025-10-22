@@ -61,7 +61,6 @@
   year: 2007
   abstract: "O desenvolvimento de jogos modernos é uma atividade que requer conhecimentos multidisciplinares, envolvendo diversas áreas da computação, matemática, física e outras ciências. Os motores de jogos visam a suprir grande parte da demanda computacional, integrando diversas técnicas freqüentemente necessárias nos jogos, simplificando muito a criação de um novo. A implementação desses motores, no entanto, é uma tarefa árdua, visto que uma gama muito grande de funções precisa ser desenvolvida de forma integrada. Este artigo apresenta o motor InGE e analisa algumas das dificuldades enfrentadas e decisões tomadas na implementação deste software multiplataforma"
   link: https://www.researchgate.net/publication/258236030_O_Desenvolvimento_de_um_Motor_Multiplataforma_para_Jogos_3D
-  event: "SBGames"
 - title: "QoS para Jogos Multijogador em Redes IEEE 802.11"
   authors: "Carlos Eduardo Benevides Bezerra"
   year: 2006

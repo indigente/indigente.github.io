@@ -2,7 +2,7 @@ baseURL = 'https://indigente.github.io'
 languageCode = 'pt-br'
 title = 'Indigente'
 theme = "ananke"
-paginate = 50
+# paginate = 50
 
 summaryLength = 20
 

@@ -14,6 +14,8 @@ Interceptadores é um jogo de realidade virtual sobre a independência do Brasil
 
 ![Tela do Interceptadores](/images/interceptadores.jpg)
 
+<iframe src="https://drive.google.com/file/d/1J3W7vqgRynH69jPPB8hqAOBYgc1bcLmC/preview" width="640" height="480" allow="autoplay" allowfullscreen></iframe>
+
 Outras informações sobre o jogo podem ser encontradas no documento de [orientações pedagógicas](https://meta-ufba.gitlab.io/docs_interceptadores).
 
 ## Download
